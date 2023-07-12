@@ -1,0 +1,153 @@
+Version 1.3.0
+
+    -Usability improvements.
+    -Performance improvements.
+    -Security improvements.
+    -The next screens now are able to save the user data in cache and the images to be use when the users don’t have internet connection:
+        1. Calendar.
+        2. EditRooms.
+        3. Eventshistory.
+        4. GalleryEditProfile.
+        5. Notifications.
+        6. Payments.
+        7. Profile. 
+        8. Report.
+        9. ReportFeedback.
+        10. ReportInit.
+        11. RoomsPreview.
+        12. RoomsReserves.
+        13. Vouchers.
+        14. YourEvents.
+    -EditRooms now is available to save de data that user modifies meanwhile the device does not have internet connection and send that when user stablishes internet connection again.
+
+Version 1.2.0
+
+    -Visual improvements.
+    -Usability improvements.
+    -Performance improvements.
+    -Login improvements.
+    -New designs for the screen of Calendar, Year Events, Add New Events and Update Events.
+    -New information about your students. 
+
+Version 1.1.2
+
+    -We added Waterloo and Guelph in the cities to select.
+    -We added the function to active and deactivate the users bedrooms.
+    -The images are now compressed on registration to improve load times and optimize storage.
+    -We fixed the camera frame to take photos.
+    -When user updates the information in "Edit Rooms" screen the app will send you to "Your Rooms" screen.
+    -We delete the message of required photo in the register of bedrooms.
+    -We added new notifications.
+    -We added an indicative if the rooms are deactivate.
+    -The calendar was redesigned.
+    -Now if the user has not finished the registration process and exits the app will save the process to continue later.
+
+Version 1.1.1
+
+    -Bug fixed for confirm and reject students.
+
+Version 1.1.0
+
+    -Visual improvements.
+    -Usability improvements.
+    -Performance improvements.
+    -Bug fixed in Calendar screen when is not events.
+    -Bug fixed in Year Calendar screen, the width of calendar was bigger than the screen.
+    -New notifications for reassignation of students.
+    -New stable organization for the apis.
+    -Responsive stable for all devices.
+    -Bug fixed for filter dates in Payments screens.
+    -Bug fixed for informations of your rooms in Rooms Reserve screen.
+    -Bug fixed to calculate the age of students in Studentinfo and Studentinfocalendar screen.
+    -We improve the process to register rooms.
+    -Improve the organization for the users on database.
+
+Version 1.0.9
+
+    -Visual improvements.
+    -Usability improvements.
+    -Performance improvements.
+    -New design for screen of Your Rooms.
+
+Version 1.0.8
+
+    -Visual improvements.
+    -Usability improvements.
+    -Performance improvements.
+    -Now the app is reponsive in every devices.
+    
+Version 1.0.7
+
+    -Visual improvements.
+    -Usability improvements.
+    -Performance improvements.
+    -Now Homebor is able to send notifications to their users.
+
+Version 1.0.6.1 (This version replaced the version 1.0.6)
+
+    -The users now are able to delete their accounts.
+
+Version 1.0.6 (This version had a short time of duration in store)
+
+    -Visual improvements.
+    -Usability improvements.
+    -Performance improvements.
+    -Navigations improvements.
+    -Now the app can check your internet connection and act in consequences.
+    -New register process.
+    -New notifications for permissions.
+    -Now the users can see their reservations history.
+    -New screen for vouches.
+    -New functions for login and Create Account.
+    -Now the calendar don’t show events from past.
+    -New informations for rooms.
+    -New structure for students informations.
+    -New functions for squares of diets and pets.
+    -Now the users can navigate their events in the calendar.
+
+Version 1.0.5
+
+    -Expo status Bar fixed.
+    -Color of datetimepicker fixed.
+
+Version 1.0.4 (This version had a short time of duration in store)
+
+    -Visual improvements.
+    -Usability improvements.
+    -Performance improvements.
+    -New organization for the Calendar screens.
+    -New functions in reports that organaziced the messages by dates.
+    -New functions in payments history that organaziced the payments by dates.
+    -New screen to recover users password.
+    -Now the users can be able to see documents in application by browsers links.
+    -Visual improvements for tablets and Ipads.
+    -Users now are able to see their password on the input for this.
+
+Version 1.0.3 (This version was only available for users in closed beta testing, not was approved)
+
+    -Visual improvements.
+    -Performance improvements.
+    -New sdk for the app enviorment, Expo 45.0.0.
+    -Size.large in refresh are not longer neccessary on the screens.
+    -React-native-collapsible was not longer update, we changed it for accordion-collapse-react-native.
+    -Icon iphone improvements.
+    -react-native-checkbox was not longer update, we changed it for expo-checkbox
+    -Better functions for inputs.
+    -This version was stable in tablets
+
+Version 1.0.2
+
+    -Visual improvements.
+    -Performance improvements.
+    -New information for students and host houses.
+    -New keyboard behavior to avoid hiding text fields.
+
+Version 1.0.1
+
+    -Fixed known bugs.
+    -Improving overall performance.
+    -Desing improvements.
+
+Version 1.0.0
+
+    - Base Version.
